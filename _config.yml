@@ -17,8 +17,8 @@ title: Up To the Cloud
 description: Deployment Frontend
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hungrycoders25.github.io/cloud" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
-
+repository: hungrycoders25/cloud # for github-metadata
+remote_theme: just-the-docs
 permalink: pretty
 
 exclude:
